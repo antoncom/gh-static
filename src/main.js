@@ -4,6 +4,6 @@ import App from "./App.svelte";
 mount(App, {
   target: document.body,
   props: {
-    name: "world",
+    name: "world of Svelte",
   },
 });
