@@ -1,6 +1,9 @@
 <script>
   export let name;
+  import { Button } from 'attractions';
 </script>
+
+
 
 <main>
   <h1>Hello {name}!</h1>
@@ -15,7 +18,7 @@
     this site was deployed.
   </p>
   <p class="large">🧑‍💻</p>
-  <a-button filled="filled">My button Rosze</a-button>
+  <Button>click me</Button>
 </main>
 
 <style>
