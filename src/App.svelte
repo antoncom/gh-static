@@ -15,6 +15,7 @@
     this site was deployed.
   </p>
   <p class="large">🧑‍💻</p>
+  <a-button filled="filled">My button Rosze</a-button>
 </main>
 
 <style>
